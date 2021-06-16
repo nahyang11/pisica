@@ -8,7 +8,7 @@ a{text-decoration:none; color: #fff;}
 .main-img{width: 1280px;}
 .main-img img{width: 100%}
 
-#fixed{background-color: #000; width: 100px; height: 100px; position: fixed; bottom: 40px; right: 50px; padding-top: 30px; z-index: 99;}
+#fixed{background-color: #000; width: 100px; height: 100px; position: fixed; bottom: 50px; right: 50px; padding-top: 30px; z-index: 99;}
 
 
 #wrap{width: 1280px; height: 7800px; margin: 0 auto;}
@@ -72,13 +72,13 @@ ul{font-size: 2.5em; font-weight: bold;}
 #atext{width: 1280px; height: 300px; padding: 80px;}
 #awrap{width: 1280px; height: 950px; }
 #aimg1{width: 522px; height: 396px; float: right;}
-#text3{width: 758px; height: 396px; float: left; padding: 80px;}
+#text3{width: 758px; height: 396px; float: left; padding: 30px 80px;}
 #text3 p{text-align: right;}
 #text3 h2{text-align: right; padding-right: 2px;}
 
 #aimg2{width: 522px; height: 396px; float: left; padding-left: 80px; padding-top: 50px;}
 #aimg2 img{width: 100%;}
-#text4{width: 758px; height: 396px; float: left; padding: 80px;}
+#text4{width: 758px; height: 396px; float: left; padding: 50px 80px;}
 #text4 p{text-align: left;}
 #text4 h2{text-align: left; padding-left: 0px;}
 #book {width: 1280px; height: 600px; float: left;}
